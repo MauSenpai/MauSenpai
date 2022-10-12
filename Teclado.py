@@ -1,6 +1,7 @@
 """
 ENGLISH:
-This code is a example to make a number keyboard with OOP and Tkinter in Python
+This code is a example to how to make a number keyboard with OOP and Tkinter 
+in Python
 
 SPANISH:
 Este codigo es un ejemplo de como hacer un teclado numerico con POO y Tkinter 
